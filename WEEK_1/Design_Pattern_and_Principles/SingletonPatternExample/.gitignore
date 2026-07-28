@@ -1,0 +1,11 @@
+*.class
+
+.vscode/
+
+.settings/
+
+bin/
+
+out/
+
+*.log
